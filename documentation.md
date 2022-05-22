@@ -24,3 +24,7 @@ test.py series of functions to test our application
 views.py functions of requests that can handle request and return response 
 migrations folder Directory stores database specific information as it related to the models
 ```
+
+```
+template tagging to inject images into html files
+```
