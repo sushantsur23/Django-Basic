@@ -26,5 +26,6 @@ migrations folder Directory stores database specific information as it related t
 ```
 
 ```
+Create function in view - link to urls -- update settings.py
 template tagging to inject images into html files
 ```
