@@ -28,4 +28,17 @@ migrations folder Directory stores database specific information as it related t
 ```
 Create function in view - link to urls -- update settings.py
 template tagging to inject images into html files
+Creating models in django
 ```
+## Part 2 commands
+```python
+python manage.py migrate  
+python manage.py makemigrations first_app
+python manage.py shell
+python manage.py createsuperuser
+pip install Faker
+```
+# Part 2
+```
+create models in models.py, register changes to the application
+
