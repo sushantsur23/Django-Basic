@@ -41,4 +41,9 @@ pip install Faker
 # Part 2
 ```
 create models in models.py, register changes to the application
+```
 
+# Part 3
+```
+Use User forms to create a complete website
+```
