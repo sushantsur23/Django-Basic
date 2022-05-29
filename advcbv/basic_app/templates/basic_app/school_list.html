@@ -1,0 +1,11 @@
+{% extends "basic_app/basic_app_base.html" %}
+{% block body_block %}
+    <div class = "jumbotron"></div>
+        <h1> Home page</h1>
+        <ol>
+            {% For school in schools %}
+            <h2><li><a href = "{{school.id">{{school.name}}</a></li></h2>
+            {% endfor %}
+        </ol>
+    </div>
+{% endblock %}
